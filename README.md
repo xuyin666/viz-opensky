@@ -20,12 +20,6 @@
 
 
 
-
-
- "https://opensky-network.org/api/states/all?lamin=41.2632185&lomin=-5.4534286&lamax=51.268318&lomax=9.8678344"
-
-
-
 ## 可改进地方
 
 - [ ] 增加一个搜索栏（与机场有关）
